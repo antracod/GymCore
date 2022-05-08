@@ -1,5 +1,5 @@
 # GymCore
-
+Proiect realizat de Radu Teodor si Mateiu Rares 332
 
 ### How to run the project
 
