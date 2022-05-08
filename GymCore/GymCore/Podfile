@@ -1,0 +1,10 @@
+platform :ios, '15.4'
+
+target 'GymCore' do
+  use_frameworks!
+
+  # Pods for GymCore
+
+  pod 'RealmSwift', '~>10'
+
+end

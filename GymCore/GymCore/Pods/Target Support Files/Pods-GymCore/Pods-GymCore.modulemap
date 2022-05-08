@@ -1,0 +1,6 @@
+framework module Pods_GymCore {
+  umbrella header "Pods-GymCore-umbrella.h"
+
+  export *
+  module * { export * }
+}
