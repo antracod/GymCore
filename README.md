@@ -1,5 +1,15 @@
 # GymCore
 
+
+### How to run the project
+
+1. Open .xcworkspace NOT .xcodeproj
+2. Go To RunnerController.swift
+3. Add your openweatherapi key
+4. Download and update PODS
+5. Build and Run
+
+
 ### Puncte Bifate
 
 - :heavy_check_mark: Adauga in baza de date realm 0.5
@@ -17,14 +27,6 @@
 - :heavy_check_mark: Proiect complet si urcat pe github 1.5
 - :heavy_check_mark: Cod curat 0-0.5 ?
 - :heavy_check_mark: Augmented Reality cu ARKIT ???+
-
-### How to run the project
-
-1. Open .xcworkspace NOT .xcodeproj
-2. Go To RunnerController.swift
-3. Add your openweatherapi key
-4. Download and update PODS
-5. Build and Run
 
 
 ### Screenshots
