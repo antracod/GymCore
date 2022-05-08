@@ -6,7 +6,7 @@
 1. Open .xcworkspace NOT .xcodeproj
 2. Go To RunnerController.swift
 3. Add your openweatherapi key
-4. Download and update PODS
+4. Download and update PODS for Realm 
 5. Build and Run
 
 
